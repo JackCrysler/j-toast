@@ -1,8 +1,10 @@
 # 说明
 
-    这是一个基于VUE的极简plugin，做提示信息功能，版本0.0.1。
-    开发基于移动端布局，如果要支持PC端布局，建议自行修改scss样式。
+    这是一个基于VUE的极简plugin，做提示信息功能，版本0.0.3。
+    开发基于移动端布局，如果要支持PC端布局，建议自行修改css样式。
     环境依赖：webpack,babel(ES6),vue(.vue)
+
+    下载：npm install j-toast或者yarn add j-toast
 
 ## 使用
 
