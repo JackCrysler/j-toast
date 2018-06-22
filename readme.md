@@ -2,7 +2,7 @@
 
     这是一个基于VUE的极简plugin，做提示信息功能，版本0.0.1。
     开发基于移动端布局，如果要支持PC端布局，建议自行修改scss样式。
-    环境依赖：webpack,VUE,scss(当然你可以手动换成css引用)
+    环境依赖：webpack,babel(ES6),vue(.vue)
 
 ## 使用
 

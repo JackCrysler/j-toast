@@ -11,7 +11,7 @@
  *  @event toast, 显示提示信息 
  */
 
-import './toast.scss'
+import './toast.css'
 import ToastItem from './toast.vue'
 let Toast = {
   install(Vue, options) {
