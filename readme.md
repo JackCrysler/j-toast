@@ -9,7 +9,7 @@
 ## 使用
 
     import Vue from 'vue'
-    import Toast from 'toast'
+    import Toast from 'j-toast'
     Vue.use(Toast,options)
 
     template:
