@@ -27,5 +27,16 @@ export default {
   }
 };
 </script>
-<style lang="scss" scoped>
+<style scoped>
+.tips{
+    background: rgba(0,0,0,.7);
+    color: #fff;
+    height: 0.9rem;
+    box-sizing: border-box;
+    border-radius: 0.9rem;
+    font-size: 0.32rem;
+    line-height: 0.9rem;
+    padding: 0 0.3rem;
+    margin: 5px;
+}
 </style>
